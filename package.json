@@ -13,16 +13,16 @@
   "keywords": [
     "k"
   ],
-  "author": "affis junianto",
+  "author": "Fajar Alfarizi",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/affisjunianto/botwasapv2.git"
+    "url": "git+https://github.com/Tersakiti404-cyber/FajarBOTV2.git"
   },
   "bugs": {
-    "url": "https://github.com/affisjunianto/botwasapv2/issues"
+    "url": "https://github.com/Tersakiti404-cyber/FajarBOTV2/issues"
   },
-"homepage": "https://github.com/affisjunianto/botwasapv2/readme",
-"license": "ISC",
+"homepage": "https://github.com/Tersakiti404-cyber/FajarBOTV2//readme",
+"license": "BHI",
 "dependencies": {
     "@adiwajshing/baileys": "^3.3.0",
     "async": "^2.4.1",
